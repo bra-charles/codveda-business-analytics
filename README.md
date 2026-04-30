@@ -1,7 +1,6 @@
 # Codveda Technology — Business Analytics Internship
 
-> **Track:** Business Analytics  
-> **Duration:** 15-day internship  
+> **Track:** Business Analytics   
 > **Levels completed:** 3 of 3  
 > **Tasks completed:** 6 of 6
 
